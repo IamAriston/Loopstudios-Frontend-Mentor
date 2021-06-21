@@ -1,4 +1,5 @@
-# Frontend Mentor - Loopstudios landing page - (Link to live webpage)[https://jasrajsingh01.github.io/Loopstudios-Frontend-Mentor/]
+# Frontend Mentor - Loopstudios landing page - 
+(Link to live webpage)[https://jasrajsingh01.github.io/Loopstudios-Frontend-Mentor/]
 
 ![Design preview for the Loopstudios landing page coding challenge](./design/desktop-preview.jpg)
 
